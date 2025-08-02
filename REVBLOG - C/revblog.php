@@ -6,7 +6,7 @@
         <title>REVBLOG.COM</title>
         <link rel="icon" href="favicon.ico" href="logo.png">
         <link rel="stylesheet" href="revblog.css">
-        <link rel="stylesheet" href="revblog.js">
+    <script src="revblog.js" defer></script>
 
     </head>
     <body>
@@ -211,4 +211,5 @@
 </html>
 
     </body>
+
 </html>
